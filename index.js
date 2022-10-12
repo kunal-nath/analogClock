@@ -1,5 +1,5 @@
 setInterval(() => {
-    d = new Date();
+    d = new Date();                ## imported the data for time from the system
     htime = d.getHours();
     mtime = d.getMinutes();
     stime = d.getSeconds();
